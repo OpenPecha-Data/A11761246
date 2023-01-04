@@ -1,0 +1,22 @@
+id: A11761246
+title: A Concise Guru Yoga
+type: translation
+pechas:
+- I976135A1
+- IBC6E1F8B
+- I7FAA244E
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:33:09.815230
+  last_modified_at: 2023-01-04 11:33:09.815240
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  I976135A1/D053: CB81
+  IBC6E1F8B/9F5F: CB81
+  I7FAA244E/1AB8: CB81
